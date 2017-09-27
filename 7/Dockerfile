@@ -3,7 +3,7 @@
 # VERSION        0.1
 # SOURCE         https://github.com/mesosinfo/centos-sshd
 
-FROM centos:7.4
+FROM centos:7.4.1708
 MAINTAINER Yong Zhang<zhangyong.net@gmail.com>
 ##########################################################################
 ENV container docker
